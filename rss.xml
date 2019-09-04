@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Artūro blogas ir šiaip nuveikti darbai]]></title><description><![CDATA[Asmeninis blogas ir vieta kur dėsiu nuveiktu darbu sąraša, dalinsiuosi mintimis, užrašais, asmeninių projektų aprašymus, nuorodos į socialines medijas]]></description><link>https://arturas.me/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 02 Sep 2019 11:59:20 GMT</lastBuildDate><item><title><![CDATA[New company]]></title><description><![CDATA[“Žiniatinklio projektai”, MB Blogo atnujinimas Ta pragą, kad pastūmėtas, įkūriau naują Mažąją bendriją “Žiniatinklio projektai” ir…]]></description><link>https://arturas.me//new-company/</link><guid isPermaLink="false">https://arturas.me//new-company/</guid><pubDate>Mon, 02 Sep 2019 17:02:00 GMT</pubDate><content:encoded>&lt;h3&gt;“Žiniatinklio projektai”, MB&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Artūro blogas ir šiaip nuveikti darbai]]></title><description><![CDATA[Asmeninis blogas ir vieta kur dėsiu nuveiktu darbu sąraša, dalinsiuosi mintimis, užrašais, asmeninių projektų aprašymus, nuorodos į socialines medijas]]></description><link>https://arturas.me/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 04 Sep 2019 19:17:20 GMT</lastBuildDate><item><title><![CDATA[New company]]></title><description><![CDATA[“Žiniatinklio projektai”, MB Blogo atnujinimas Ta pragą, kad pastūmėtas, įkūriau naują Mažąją bendriją “Žiniatinklio projektai” ir…]]></description><link>https://arturas.me//new-company/</link><guid isPermaLink="false">https://arturas.me//new-company/</guid><pubDate>Mon, 02 Sep 2019 17:02:00 GMT</pubDate><content:encoded>&lt;h3&gt;“Žiniatinklio projektai”, MB&lt;/h3&gt;
 &lt;h2&gt;Blogo atnujinimas&lt;/h2&gt;
 &lt;p&gt;Ta pragą, kad pastūmėtas, įkūriau naują Mažąją bendriją “Žiniatinklio projektai” ir susirašinėjimui naudoju šį domeną (@arturas.me),
 tai pagalvojau, kad vėl vertą pastayti atstatyt &lt;em&gt;blogą&lt;/em&gt; iš 404 erroro.
@@ -8,18 +8,18 @@ pamiršdavo prisegt &lt;strong&gt;CNAME&lt;/strong&gt; įrašą, todėl Github.i
 &lt;h2&gt;Kompanija&lt;/h2&gt;
 &lt;p&gt;Įkūrimas realiai keičią ir viską ir nieko tuo pačiu metu. Daugiau atsakomybės, daugiau informacijos, kitoks požižūris į darbą, klientus.
 Nors dabar dar tik pati pradžia, net verslo plano parašyto neturiu, ir dirbu prie to ko dirbau ankščiau, skirdamas extra valandą dienoj tvarkytį reikalus.
-Planuose ne tik verslo plano rašymas, bet ir &lt;em&gt;pirmi&lt;/em&gt; nedideli įmonės projektai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Service managment irašas]]></title><description><![CDATA[Service managment irašas, edited]]></description><link>https://arturas.me//service-managment/</link><guid isPermaLink="false">https://arturas.me//service-managment/</guid><pubDate>Tue, 23 Apr 2019 20:52:00 GMT</pubDate><content:encoded>&lt;p&gt;Service managment irašas, edited&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Šio puslapio kūrimo eiga - procesas.]]></title><description><![CDATA[Pradžioje rašau  Komandinėje eilutėje (CLI), po direktorijos sukūrimo aišku.
-Norint moderniau pasiekti tą patį rezultatą su keliais pelytės…]]></description><link>https://arturas.me//website-development-process/</link><guid isPermaLink="false">https://arturas.me//website-development-process/</guid><pubDate>Sat, 08 Dec 2018 18:47:00 GMT</pubDate><content:encoded>&lt;h2&gt;Pradžioje rašau &lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt;&lt;/h2&gt;
+Planuose ne tik verslo plano rašymas, bet ir &lt;em&gt;pirmi&lt;/em&gt; nedideli įmonės projektai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Šio puslapio kūrimo eiga - procesas.]]></title><description><![CDATA[Komandinėje eilutėje (CLI), po direktorijos sukūrimo aišku.
+Norint moderniau pasiekti tą patį rezultatą su keliais pelytės paspaudimais…]]></description><link>https://arturas.me//website-development-process/</link><guid isPermaLink="false">https://arturas.me//website-development-process/</guid><pubDate>Sat, 08 Dec 2018 18:47:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;Komandinėje eilutėje (CLI), po direktorijos sukūrimo aišku.
 Norint moderniau pasiekti tą patį rezultatą su keliais pelytės paspaudimais galima naudoti aplikacijas tokias kaip GitKraken ar SourceTree.
 Sekantis žingsnis repositorijos klonavimas arba pačio kodo rašymas.&lt;/p&gt;
 &lt;p&gt;Mano atveju teko naudoti komandidinę eilutė, kad sukurčiau minimalų &lt;em&gt;react.js&lt;/em&gt; paremtą web puslapį, naudojant įrankį &lt;code class=&quot;language-text&quot;&gt;gatsby new ****&lt;/code&gt; .&lt;/p&gt;
 &lt;p&gt;Kadangi, tai pirmas įrankis/technologija (gatsby) kurį radau po neperilgiausio statinio puslapio kūrimo įrankio paieškos paremtu &lt;em&gt;react.js&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt; Gatsby minusai:&lt;/p&gt;
+&lt;p&gt;Gatsby minusai:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;• Nėra grafinės sąsajos patogios paprastasm vartotojui.
 • Reikia turėti programavimo žinių norit ne tik tam, kad vystyti visą puslapį,
 bet ir rašyti naujus blogo įrašus bei puslapius&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt; Pliusai:&lt;/p&gt;
+&lt;p&gt;Pliusai:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;• Naudoja naujausias - populiariausiais technologijas - *react.js, graphql, webpack, es6, tavis-ci*
  kurios jau sukonfiguruotos (bent jau minimaliai, kad veiktų).
 • Gan išsami dokumentacija
@@ -44,7 +44,7 @@ Hate over-engineering? Don’t look this way.&lt;/p&gt;
 Iki universiteto nemažai užsirašinėdavau - pradedant idėjomis, jų plėtojimą darant &lt;em&gt;researchą&lt;/em&gt;, žymint įvarius puslapius, šaltinius.
 Studijų laikotarpiu tą reikalą apleidau.
 Smarkiai.
-Dabar grįžtu su naujom jėgom.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Trečias dublis - pimas postas]]></title><description><![CDATA[Bus jau trečias bandymas rašyti blogą.
+Dabar grįžtu su naujom jėgom.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Trečias dublis - pirmas postas]]></title><description><![CDATA[Bus jau trečias bandymas rašyti blogą.
 Praėjusieji kartai dažniausiai baigdavosi tuo, kad juos tiesiog numesdavau, gal net pasidarydavo gėda…]]></description><link>https://arturas.me//hello-world/</link><guid isPermaLink="false">https://arturas.me//hello-world/</guid><pubDate>Thu, 29 Nov 2018 20:52:00 GMT</pubDate><content:encoded>&lt;p&gt;Bus jau trečias bandymas rašyti blogą.
 Praėjusieji kartai dažniausiai baigdavosi tuo, kad juos tiesiog numesdavau, gal net pasidarydavo gėda, kad blogą rašau - taigi ne normalu. Dingo visi įrašai (gal waybackmachine.og dar juos rastu?).
 Ir rašydavau labai retai.&lt;/p&gt;
@@ -53,5 +53,7 @@ Kas maždaug reikštu, kad aš gan senai beprotis. Na bent 2 kartą, blogo atvej
 &lt;p&gt;Šįkart su šiuo blogu - asmeniniu puslapiu bus kitaip. Aš dabar techniškesnis, turiu mažiau nerimo ir jaučiuosi geriau apskritai (įdomu ar ilgai tai tęsis).
 Blogo tikslas - tobulėti tiek rašyme, tiek techniškai ( gal vėlesniuose įrašuose aprašysiu, kas čia per gudrybių rinkinys šitas puslapis).&lt;/p&gt;
 &lt;p&gt;Iš rašymo pusės - greičiausiai bus labai įvairių tipų įrašų ( detalės asmeninio gyvenimo, techniniai-IT postai, gal ir šiaip (ne)teisingos nuomonės pakliūt). Vis dar nenusprendžiau kuriomis kalbomis ar kalba jie bus.
-Iš techninės - blogas daromas su react.js ir hostinamas ant &lt;em&gt;github pages&lt;/em&gt;. Bus įdomi patirtis. Greičiausiai reikės kurti ar ieškotis įrankių naujiems blogo įrašams kurti, gal pradžiai nuo komandinės eilutės, vėliau iki mobilios aplikacijos. Taip pat reiktų nepamiršti ir CI/CD dalykų. greičiauiai nuo jų ir pradėsiu.
-&lt;/p&gt;</content:encoded></item></channel></rss>
+Iš techninės - blogas daromas su react.js ir hostinamas ant &lt;em&gt;github pages&lt;/em&gt;. Bus įdomi patirtis. Greičiausiai reikės kurti ar ieškotis įrankių naujiems blogo įrašams kurti, gal pradžiai nuo komandinės eilutės, vėliau iki mobilios aplikacijos. Taip pat reiktų nepamiršti ir CI/CD dalykų. greičiauiai nuo jų ir pradėsiu.&lt;/p&gt;
+&lt;p&gt;/**
+Chringe Edit: Fixed typo in title
+**/&lt;/p&gt;</content:encoded></item></channel></rss>
