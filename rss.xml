@@ -1,15 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Artūro blogas ir šiaip nuveikti darbai]]></title><description><![CDATA[Asmeninis blogas ir vieta kur dėsiu nuveiktu darbu sąraša, dalinsiuosi mintimis, užrašais, asmeninių projektų aprašymus, nuorodos į socialines medijas]]></description><link>https://arturas.me/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 17 Dec 2018 19:42:03 GMT</lastBuildDate><item><title><![CDATA[Šio puslapio kūrimo eiga - procesas.]]></title><description><![CDATA[Pradžioje rašau  Komandinėje eilutėje (CLI), po direktorijos sukūrimo aišku.
-Norint moderniau pasiekti tą patį rezultatą su keliais pelytės…]]></description><link>https://arturas.me//website-development-process/</link><guid isPermaLink="false">https://arturas.me//website-development-process/</guid><pubDate>Sat, 08 Dec 2018 18:47:00 GMT</pubDate><content:encoded>&lt;h2&gt;Pradžioje rašau &lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt;&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Artūro blogas ir šiaip nuveikti darbai]]></title><description><![CDATA[Asmeninis blogas ir vieta kur dėsiu nuveiktu darbu sąraša, dalinsiuosi mintimis, užrašais, asmeninių projektų aprašymus, nuorodos į socialines medijas]]></description><link>https://arturas.me/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 Dec 2020 08:49:00 GMT</lastBuildDate><item><title><![CDATA[Closrure Or It is what it is.]]></title><description><![CDATA[It all started seven-something years ago when I broke up with a girlfriend. It was a complicated relationship for many years - let’s say I…]]></description><link>https://arturas.me//closure/</link><guid isPermaLink="false">https://arturas.me//closure/</guid><pubDate>Fri, 04 Dec 2020 00:10:00 GMT</pubDate><content:encoded>&lt;p&gt;It all started seven-something years ago when I broke up with a girlfriend. It was a complicated relationship for many years - let’s say I had my ups and downs during it. She always was a free bird. It was fine with me.
+We could talk, laugh, walk, kiss for hours, and text in hundreds of messages per day about anything but one thing - us.
+Meet the Problem - she didn’t want to commit. Every time I tried to confront her with the issue at hand, she would switch the topic or better - accuse me of being too pushy. Yet then we would laugh it off.&lt;/p&gt;
+&lt;p&gt;Enter the change. &lt;/p&gt;
+&lt;p&gt;At some point, the dynamic changed. First signals that something had changed when around of company of friends she stared at me as one would stare at a blank space.
+I knew it was over. It hurt me. One day she stopped replying, I got ghosted.
+I get rid of anything that reminds me of her. Social media, phone number, email letters, photos, gift, anything. Gone. Nada.&lt;/p&gt;
+&lt;p&gt;Time. I.&lt;/p&gt;
+&lt;p&gt;So now I’m all alone with nothing to care about, right? I’m young, smart, good looking, have quite a few friends. It’s not a tragedy, right?
+Except.
+I could not stop not thinking about her.
+Now all those messages, conversations, and laughs are in my head. Those thoughts always come around at some point in the time of day through all this story. It just happens.
+“You will get over her” - some friends said. I replied reaffirming - “Sure I will”.
+The first half of the year went quite smoothly. No hookups tho. But still motivated as ever, having fun here and there, doing my job, minding my business. Guess who is spinning on my mind like a broken record?&lt;/p&gt;
+&lt;p&gt;Now it starts. &lt;/p&gt;
+&lt;p&gt;The day I welcomed her to the city and helped her to move into the dorms I got a job. Now the thing is … my boss reassembles her in a way by her looks and even character. Suddenly some anxiety kicks in. I still do my job but I’m not that enthusiastic anymore. It gets on my nerves.
+My boss receives flowers and I see how She receives flowers in my head. I don’t want to work there anymore. I quit. Boss asks why and I tell some bullshit lie.   &lt;/p&gt;
+&lt;p&gt;And things get messy. (I remember this part very vaguely like through fog)
+I don’t have a job nor savings that would pull me through for a couple of months. I’m anxious. Some debt accumulated during the stay in the flat.
+I met this girl. She’s fine, we talk. I find her attractive so she does. No hookup somehow?&lt;br&gt;
+I have this job interview next Monday. But my brother comes to collect what’s left of me on Saturday. So I skip the interview.
+I move back to my parents for some time.
+With her on my mind.
+I write to the girl I recently met that she could take my place in the flat and so she did.&lt;/p&gt;
+&lt;p&gt;Now it’s getting worse - I can’t think straight, some mental fog and anxiety things are going on in my head. I think to myself that it needs time to get better.
+In the meanwhile, I found some client work to do from a client named the same as her … are you kidding me? I’m trying to forget her here! Hello!?
+I finish the job but didn’t get paid in full. Doesn’t matter nevertheless.
+Sent over a couple of CV’s to local companies and got invited to interview. Got the job even though the mental fog and anxiety. Winning in a sense.&lt;/p&gt;
+&lt;p&gt;Now she’s trying to contact me by calling. I’m still trying to forget her. I answer and ask to delete the number.&lt;/p&gt;
+&lt;p&gt;Back to the job. Except I could not do my job there. Either I wasn’t in my mental capacity, either the managers could not do their job of describing the task for me. So off I go back to the drawing board.
+Remember the Job interview that I had on a Monday before I took off for a parent’s place? They invited me again for the interview. How cool huh?  Went there and got the job.
+Now I’m staying temporarily at my friend’s. They see that something is off with me. &lt;/p&gt;
+&lt;p&gt;Enter the new workplace.&lt;/p&gt;
+&lt;p&gt;It’s a nice big company. I did my work that was assigned, finished my project. Had a bad day and got slacked. Why? I don’t know. Pixel was missing they say. I blame it on my mental state.
+Back to the parents off we go. My work went into production tho.&lt;/p&gt;
+&lt;p&gt;Now I’m considering finishing my university education. The business school where I left around two years ago? Nope. She’s there because I recommended her that place to her and she took the advice.  I went as far as walking her down by the hand to sign the contract there. &lt;/p&gt;
+&lt;p&gt;I took another faculty. Maths. I didn’t do any research on where I am going. As long I am moving to somewhere and not getting stuck at parents. I got in.
+Regret came in in no time. It wasn’t my place.
+Now mix maths with anxiety, sadness, and constant thought about her (2+ years past by). How’s the mix?  Having fun yet? Now combine it with the morgue in front of your dorm room window and shake it for two additional years. Don’t forget to add the absence of intimate life.
+It didn’t get better.
+I didn’t reach out to my friends or anyone. I was afraid.
+I knew nowhere to go. I could not think straight nor reason about anything. Most of the time I wanted to die. I stared at the wall. My head was empty and full.  Sometimes I pathetically cried myself to sleep with a wish I would not wake up. I was going to the faculty screaming and shouting in my mind. I thought I was going insane. And on the outside, no one even asked if I am doing good? Maybe my act was good. maybe everyone there felt the same.
+I had sex once a year up to this point at most. Mostly one night stands.
+At some point, the few girls that there were at the math faculty for some reason got attracted to me? I got into some casual relationships that I could not maintain for a long time. The sex fixed some issues for me. But not the ‘her’ one. Now I’m tindering here and there and having a bunch of action.
+It made me realize that I need help. So I went to a therapist. I told everything but one thing I could not talk about. It was still on my mind.  However, I felt better now.&lt;/p&gt;
+&lt;p&gt;Fast forward three more years.
+There were few events like living without Facebook for two years, some travel abroad, ups and downs, gigs, etc.
+I had dozens of one night stands, maybe even some std (one girl warned me, wasn’t true), at least four relationships that lasted longer than a month. Some therapy sessions. I’m still thinking about her.&lt;/p&gt;
+&lt;p&gt;It’s a month since my last ‘relationship’.&lt;/p&gt;
+&lt;p&gt;I open some social media. Scroll for job openings. Now I see her as some of the post creators. I switch tabs, and I see more of her. I pick up the courage and said hi to her through the chat. I dont’t feel that anxiety or distres. She instantly replied. She even offered to meet for closure.&lt;br&gt;
+We met.
+Suddenly she’s talking about us how she felt when she left me and why and even answered some of my questions? WHAT?
+We separated after 2 hours of walking-talking. I still felt something for her.&lt;/p&gt;
+&lt;p&gt;I had insomnia that night. All those flashbacks and thoughts from the events that happened during the seven years came in one night. In the end, I had a panic attack. I was recording the feelings that I was experiencing throughout the night.
+And I ruined everything in the morning by sharing those notes with her. &lt;/p&gt;
+&lt;p&gt;The end.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New company]]></title><description><![CDATA[“Žiniatinklio projektai”, MB Blogo atnujinimas Ta pragą, kad pastūmėtas, įkūriau naują Mažąją bendriją “Žiniatinklio projektai” ir…]]></description><link>https://arturas.me//new-company/</link><guid isPermaLink="false">https://arturas.me//new-company/</guid><pubDate>Mon, 02 Sep 2019 17:02:00 GMT</pubDate><content:encoded>&lt;h3&gt;“Žiniatinklio projektai”, MB&lt;/h3&gt;
+&lt;h2&gt;Blogo atnujinimas&lt;/h2&gt;
+&lt;p&gt;Ta pragą, kad pastūmėtas, įkūriau naują Mažąją bendriją “Žiniatinklio projektai” ir susirašinėjimui naudoju šį domeną (@arturas.me),
+tai pagalvojau, kad vėl vertą pastayti atstatyt &lt;em&gt;blogą&lt;/em&gt; iš 404 erroro.
+Na ir bandant darbintis tas 404 nepadėjo parodyti kompetencijos, bet labai tingėjos :).
+O problema buvo, kad kievieną kartą &lt;em&gt;travis-ci&lt;/em&gt; sugeneravęs webą,
+pamiršdavo prisegt &lt;strong&gt;CNAME&lt;/strong&gt; įrašą, todėl Github.io &lt;em&gt;nuresntidavo custom&lt;/em&gt; domeną.&lt;/p&gt;
+&lt;h2&gt;Kompanija&lt;/h2&gt;
+&lt;p&gt;Įkūrimas realiai keičią ir viską ir nieko tuo pačiu metu. Daugiau atsakomybės, daugiau informacijos, kitoks požižūris į darbą, klientus.
+Nors dabar dar tik pati pradžia, net verslo plano parašyto neturiu, ir dirbu prie to ko dirbau ankščiau, skirdamas extra valandą dienoj tvarkytį reikalus.
+Planuose ne tik verslo plano rašymas, bet ir &lt;em&gt;pirmi&lt;/em&gt; nedideli įmonės projektai.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Šio puslapio kūrimo eiga - procesas.]]></title><description><![CDATA[Komandinėje eilutėje (CLI), po direktorijos sukūrimo aišku.
+Norint moderniau pasiekti tą patį rezultatą su keliais pelytės paspaudimais…]]></description><link>https://arturas.me//website-development-process/</link><guid isPermaLink="false">https://arturas.me//website-development-process/</guid><pubDate>Sat, 08 Dec 2018 18:47:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;Komandinėje eilutėje (CLI), po direktorijos sukūrimo aišku.
 Norint moderniau pasiekti tą patį rezultatą su keliais pelytės paspaudimais galima naudoti aplikacijas tokias kaip GitKraken ar SourceTree.
 Sekantis žingsnis repositorijos klonavimas arba pačio kodo rašymas.&lt;/p&gt;
 &lt;p&gt;Mano atveju teko naudoti komandidinę eilutė, kad sukurčiau minimalų &lt;em&gt;react.js&lt;/em&gt; paremtą web puslapį, naudojant įrankį &lt;code class=&quot;language-text&quot;&gt;gatsby new ****&lt;/code&gt; .&lt;/p&gt;
 &lt;p&gt;Kadangi, tai pirmas įrankis/technologija (gatsby) kurį radau po neperilgiausio statinio puslapio kūrimo įrankio paieškos paremtu &lt;em&gt;react.js&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt; Gatsby minusai:&lt;/p&gt;
+&lt;p&gt;Gatsby minusai:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;• Nėra grafinės sąsajos patogios paprastasm vartotojui.
 • Reikia turėti programavimo žinių norit ne tik tam, kad vystyti visą puslapį,
 bet ir rašyti naujus blogo įrašus bei puslapius&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt; Pliusai:&lt;/p&gt;
+&lt;p&gt;Pliusai:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;• Naudoja naujausias - populiariausiais technologijas - *react.js, graphql, webpack, es6, tavis-ci*
  kurios jau sukonfiguruotos (bent jau minimaliai, kad veiktų).
 • Gan išsami dokumentacija
@@ -34,7 +99,7 @@ Hate over-engineering? Don’t look this way.&lt;/p&gt;
 Iki universiteto nemažai užsirašinėdavau - pradedant idėjomis, jų plėtojimą darant &lt;em&gt;researchą&lt;/em&gt;, žymint įvarius puslapius, šaltinius.
 Studijų laikotarpiu tą reikalą apleidau.
 Smarkiai.
-Dabar grįžtu su naujom jėgom.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Trečias dublis - pimas postas]]></title><description><![CDATA[Bus jau trečias bandymas rašyti blogą.
+Dabar grįžtu su naujom jėgom.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Trečias dublis - pirmas postas]]></title><description><![CDATA[Bus jau trečias bandymas rašyti blogą.
 Praėjusieji kartai dažniausiai baigdavosi tuo, kad juos tiesiog numesdavau, gal net pasidarydavo gėda…]]></description><link>https://arturas.me//hello-world/</link><guid isPermaLink="false">https://arturas.me//hello-world/</guid><pubDate>Thu, 29 Nov 2018 20:52:00 GMT</pubDate><content:encoded>&lt;p&gt;Bus jau trečias bandymas rašyti blogą.
 Praėjusieji kartai dažniausiai baigdavosi tuo, kad juos tiesiog numesdavau, gal net pasidarydavo gėda, kad blogą rašau - taigi ne normalu. Dingo visi įrašai (gal waybackmachine.og dar juos rastu?).
 Ir rašydavau labai retai.&lt;/p&gt;
@@ -43,5 +108,7 @@ Kas maždaug reikštu, kad aš gan senai beprotis. Na bent 2 kartą, blogo atvej
 &lt;p&gt;Šįkart su šiuo blogu - asmeniniu puslapiu bus kitaip. Aš dabar techniškesnis, turiu mažiau nerimo ir jaučiuosi geriau apskritai (įdomu ar ilgai tai tęsis).
 Blogo tikslas - tobulėti tiek rašyme, tiek techniškai ( gal vėlesniuose įrašuose aprašysiu, kas čia per gudrybių rinkinys šitas puslapis).&lt;/p&gt;
 &lt;p&gt;Iš rašymo pusės - greičiausiai bus labai įvairių tipų įrašų ( detalės asmeninio gyvenimo, techniniai-IT postai, gal ir šiaip (ne)teisingos nuomonės pakliūt). Vis dar nenusprendžiau kuriomis kalbomis ar kalba jie bus.
-Iš techninės - blogas daromas su react.js ir hostinamas ant &lt;em&gt;github pages&lt;/em&gt;. Bus įdomi patirtis. Greičiausiai reikės kurti ar ieškotis įrankių naujiems blogo įrašams kurti, gal pradžiai nuo komandinės eilutės, vėliau iki mobilios aplikacijos. Taip pat reiktų nepamiršti ir CI/CD dalykų. greičiauiai nuo jų ir pradėsiu.
-&lt;/p&gt;</content:encoded></item></channel></rss>
+Iš techninės - blogas daromas su react.js ir hostinamas ant &lt;em&gt;github pages&lt;/em&gt;. Bus įdomi patirtis. Greičiausiai reikės kurti ar ieškotis įrankių naujiems blogo įrašams kurti, gal pradžiai nuo komandinės eilutės, vėliau iki mobilios aplikacijos. Taip pat reiktų nepamiršti ir CI/CD dalykų. greičiauiai nuo jų ir pradėsiu.&lt;/p&gt;
+&lt;p&gt;/**
+Chringe Edit: Fixed typo in title
+**/&lt;/p&gt;</content:encoded></item></channel></rss>
